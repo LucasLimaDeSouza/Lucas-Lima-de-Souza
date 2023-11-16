@@ -1,7 +1,7 @@
 
 import { ThemeProvider } from "styled-components"
 
-import theme from './Theme/theme'
+import theme from './theme/theme'
 import { Header } from "./Components/Header"
 import { Container } from "./Global/style"
 import { About } from "./Components/About"
