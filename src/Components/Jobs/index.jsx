@@ -9,7 +9,7 @@ import {
 
 
 import Exo from "../../assets/exo.png"
-import LETRAX from "../../assets/letrax_icon.svg"
+import LETRAX from "../../assets/letrax-logo-app.svg"
 
 import { useState } from "react"
 import { ModalAboutJobs } from "../Modal/ModalAboutJobs"

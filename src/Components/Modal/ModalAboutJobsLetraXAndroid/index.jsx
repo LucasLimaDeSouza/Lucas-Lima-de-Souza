@@ -1,6 +1,6 @@
 
 import { red } from "@mui/material/colors"
-import LETRAX from "../../../assets/letrax_icon.svg"
+import LETRAX from "../../../assets/letrax-logo-app.svg"
 
 import { 
     Content,
@@ -26,7 +26,7 @@ export function ModalAboutJobsLetraXAndroid({isOpen, isClose}) {
                         <BoxButton>
 
                             <ButtonLink
-                                href="https://drive.google.com/uc?export=download&id=17r0y6AKGWekfrMDSeivqaCt9TrRmeATN"
+                                href="https://drive.google.com/file/d/1I5GeAILUeMaWWam0BiEb6_1T_A0K53xu/view?usp=sharing"
                                 target="_blank"
                             >
                                 <h1>Baixar app</h1>
